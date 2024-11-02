@@ -1,2 +1,2 @@
-# Git
-This is Wisdom
+# Wisdom's Git
+Wisdom Darlington Ndata.
