@@ -1,2 +1,3 @@
-# Wisdom's Git
-Wisdom Darlington Ndata.
+# Wisdom's Github Acct
+
+Wisdom Ndata.
